@@ -1,0 +1,6 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    /* This is probably a bit too much, but at least it's easy to know it's working */
+    background-color: yellow; 
+}
